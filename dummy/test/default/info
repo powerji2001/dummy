@@ -1,6 +1,6 @@
 {
     "baseDomain":"https://raw.githubusercontent.com/",
-    "githubToken":"GHSAT0AAAAAABXCHXXDCU6FNT3MWS36OBQWY44DSNQ"
+    "githubToken":"GHSAT0AAAAAABXCHXXDCU6FNT3MWS36OBQWY44DSNQ",
     "wakeupTime":"8:00",
     "lockoutTime":"20:00",
     "updateTimes":["8:00", "20:00"]
