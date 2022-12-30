@@ -1,7 +1,7 @@
 {
     "packageName":"com.iamdt.installer",
     "downloadDomain":"https://github.com/",
-    "downloadPath":"powerji2001/dummy/raw/main/app-commercial-release.apk",
+    "downloadPath":"powerji2001/dummy/raw/main/updater10.apk",
     "versionCode":10,
-    "md5Hash":"543C70147DBCFF5F1364468E4AD30F28"
+    "md5Hash":"064C0CAD0DF5380DA1AB5714DCE744B2"
 }
