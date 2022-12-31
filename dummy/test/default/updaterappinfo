@@ -1,7 +1,7 @@
 {
-    "packageName":"com.iamdt.installer",
+    "packageName":"com.afwsamples.testdpc",
     "downloadDomain":"https://github.com/",
     "downloadPath":"powerji2001/dummy/raw/main/updater10.apk",
     "versionCode":10,
-    "md5Hash":"5568ED9FAFC7398E33278D7980BA2709"
+    "md5Hash":"3A6E8153816909B870B9110592919B0A"
 }
