@@ -1,5 +1,5 @@
 {
-    "packageName":"com.afwsamples.testdpc",
+    "packageName":"com.iamdt.did.updater",
     "downloadDomain":"https://github.com/",
     "downloadPath":"powerji2001/dummy/raw/main/updater10.apk",
     "versionCode":10,
